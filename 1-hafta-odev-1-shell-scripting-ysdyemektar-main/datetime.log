@@ -1,0 +1,21 @@
+  386  290522 19:21:41crontab -e
+  387  290522 19:21:41crontab
+  388  290522 19:21:41crontab -e
+  393  290522 19:21:41crontab -e
+  397  290522 19:21:41crontab -e
+  402  290522 19:21:41crontab -e
+  415  290522 19:21:41cat /var/log/cron
+  418  290522 19:21:41cd /etc/crontab
+  422  290522 19:21:41mkdir crontab
+  423  290522 19:21:41mkdir/crontab/
+  424  290522 19:21:41mkdir /crontab/
+  425  290522 19:21:41mkdir /crontab
+  428  290522 19:21:41crontab -e
+  432  290522 19:21:41crontab -e
+  435  290522 19:21:41crontab -e
+  445  290522 19:24:34cd /var/log/cron/
+  446  290522 19:24:48cd /var/log/cron
+  457  290522 19:56:23history | grep crontab
+  460  290522 19:58:11history | grep cron tar
+  462  290522 19:58:40history |grep cron
+  464  290522 20:00:12history | grep cron >> datetime.log
